@@ -102,14 +102,14 @@
         "KeyName": "NoToastApplicationNotification",
         "PropertyType": "DWord",
         "PropertyValue": "1",
-        "SetProperty": "True"
+        "SetProperty": "False"
     },
     {
         "HivePath": "HKLM:\\VDOT_TEMP\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\PushNotifications",
         "KeyName": "NoToastApplicationNotificationOnLockScreen",
         "PropertyType": "DWord",
         "PropertyValue": "1",
-        "SetProperty": "True"
+        "SetProperty": "False"
     },
     {
         "HivePath": "HKLM:\\VDOT_TEMP\\SOFTWARE\\Policies\\Microsoft\\Windows\\EdgeUI",

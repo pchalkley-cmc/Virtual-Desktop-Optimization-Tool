@@ -249,7 +249,7 @@
         "RegItemValueName": "NoCloudApplicationNotification",
         "RegItemValueType": "DWord",
         "RegItemValue": "1",
-        "VDIState": "Enabled"
+        "VDIState": "Unchanged"
     },
     {
         "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\DeviceInstall\\Settings",
@@ -1026,14 +1026,14 @@
         "RegItemValueName": "NoToastApplicationNotification",
         "RegItemValueType": "DWord",
         "RegItemValue": "1",
-        "VDIState": "Enabled"
+        "VDIState": "Unchanged"
     },
     {
         "RegItemPath": "HKCU:\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\PushNotifications",
         "RegItemValueName": "NoToastApplicationNotificationOnLockScreen",
         "RegItemValueType": "DWord",
         "RegItemValue": "1",
-        "VDIState": "Enabled"
+        "VDIState": "Unchanged"
     },
     {
         "RegItemPath": "HKCU:\\SOFTWARE\\Policies\\Microsoft\\Windows\\EdgeUI",
